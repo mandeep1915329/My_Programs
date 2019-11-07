@@ -1,12 +1,11 @@
 ---
+
+![](https://i.ytimg.com/vi/nRkHrUyI9Qw/maxresdefault.jpg)
+-----------
 # **Programming for Problem Solving**
-
 ## **Name** - Mandeep Singh
-## 
-**CRN -1915329**
-
-## **Branch - CSE-C1
-**
+## **CRN -1915329**
+## **Branch - CSE-C1**
 ## **Submitted to:-  MRS Goldendeep Kaur **
 ---
 
